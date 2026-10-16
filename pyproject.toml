@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lesotrans-etl"
+version = "1.0.0"
+description = "ETL-конвейер открытых данных, прогнозирование грузопотоков и нормативный контроль лесоперевозок (Приказы Минприроды № 23 и № 102)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  { name = "Щербаков Никита Олегович", email = "nikitaserbakov351@gmail.com" }
+]
