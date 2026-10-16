@@ -1,0 +1,5 @@
+version: "3.9"
+services:
+  lesotrans-etl:
+    build: .
+    command: ["ingest", "--input", "data/demo_shipments_spb_lenobl.json", "--db", "/tmp/lesotrans.db"]
