@@ -76,5 +76,3 @@ git branch -M main
 git remote add origin https://github.com/nikitaserbakov351-dotcom/lesotrans-etl.git
 git push -u origin main
 ```
-
-**Автор:** Щербаков Никита Олегович · СПбГЛТУ им. С. М. Кирова (направление 35.03.02 «Транспортно-логистические системы лесопользования»)
